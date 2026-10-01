@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-pinecone
+beautifulsoup4
+requests
+python-dotenv
+pinecone
+pyTelegramBotAPI
