@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.Python
+_dzen_ok.txt
+_dzen_*.txt
+_probe_dzen.py
